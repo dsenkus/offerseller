@@ -3,7 +3,7 @@
   "name": "OfferSeller: Demo",
   "icons": [
     {
-      "src": "https://github.com/dsenkus/offerseller/img/icon.png",
+      "src": "https://dsenkus.github.io/offerseller/img/icon.png",
       "type": "image/png",
       "sizes": "192x192"
     }
@@ -19,13 +19,13 @@
   "description": "OfferSeller Demo Application",
   "screenshots": [
     {
-      "src": "https://github.com/dsenkus/offerseller/img/app_demo.png",
+      "src": "https://dsenkus.github.io/offerseller/img/app_demo.png",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
     },
     {
-      "src": "https://github.com/dsenkus/offerseller/img/app_demo_wide.png",
+      "src": "https://dsenkus.github.io/offerseller/img/app_demo_wide.png",
       "type": "image/jpg",
       "sizes": "720x540",
       "form_factor": "wide"
