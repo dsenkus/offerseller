@@ -1,0 +1,34 @@
+{
+  "short_name": "OfferSeller",
+  "name": "OfferSeller: Demo",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#f7f7f7",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#f7f7f7",
+  "shortcuts": [
+  ],
+  "description": "OfferSeller Demo Application",
+  "screenshots": [
+    {
+      "src": "/img/app_demo.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/img/app_demo_wide.png",
+      "type": "image/jpg",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
